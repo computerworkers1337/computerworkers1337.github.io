@@ -2,7 +2,6 @@ title: Computer Workers Blog
 description: Writing about computers, AI and politics
 theme: minima
 
-author:
-  name: wctrl
+author: W-CTRL
 
 permalink: /:year/:month/:day/:title/
