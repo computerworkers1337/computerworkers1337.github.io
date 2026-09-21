@@ -1,0 +1,8 @@
+title: Computer Workers Blog
+description: Writing about computers, AI and politics
+theme: minima
+
+author:
+  name: W-CTRL
+
+permalink: /:year/:month/:day/:title/
