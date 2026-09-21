@@ -3,6 +3,6 @@ description: Writing about computers, AI and politics
 theme: minima
 
 author:
-  name: W-CTRL
+  name: wctrl
 
 permalink: /:year/:month/:day/:title/
