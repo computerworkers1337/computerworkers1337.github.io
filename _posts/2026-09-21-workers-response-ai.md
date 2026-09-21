@@ -1,4 +1,8 @@
-**How should workers respond to the AI boom**
+---
+layout: post
+title: "How should workers respond to the AI boom?"
+date: 2026-09-21
+---
 
 AI is centre stage again after Anthropic researcher Jacob Coxon very publicly resigned in September 2026, warning that people building AI genuinely believed it could [“kill us all by the end of the decade”](https://www.nytimes.com/2026/09/14/podcasts/the-daily/the-ai-researcher-whose-rebellion-is-changing-everything.html). Representatives from OpenAI and Anthropic, including Anthropic CEO Dario Amodei, then [called for a slowdown in frontier AI development](https://darioamodei.com/post/we-must-pace-the-frontier).
 
