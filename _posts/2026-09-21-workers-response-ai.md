@@ -70,7 +70,7 @@ AI assistants receive [further training using instructions, human feedback and t
 
 Once a model has been trained, it can be deployed to make predictions requested by a user. This is called inference. During ordinary inference, the model’s weights are no longer being continuously adjusted. New input and prompts are converted into numbers and passed through the network. In a language model, this produces a probability distribution over possible next tokens. [The model selects or samples one token, adds it to its own input, and repeats the process to generate a response](https://arxiv.org/abs/2005.14165). Training is therefore the process of adjusting the network, while inference is the process of using that network on new data.
 
-The data that AI learns to model contains real information about the world, and through statistical inference and attention AI can learn extraordinarily complex relationships inside that information. But the objective structure of the world does not directly determine the statistical structure of language, images, audio, and video.
+The data that AI learns to model contains real information about the world, and through statistical inference and attention AI can learn extraordinarily complex relationships inside that information. But the statistical structure of language, images, audio, and video does not by itself determine the objective structure of the world.
 
 **Superhuman intelligence?**
 
