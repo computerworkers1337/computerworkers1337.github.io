@@ -150,6 +150,8 @@ Students face the same pressure to produce an answer without doing the work need
 
 [As Tao says](https://mathstodon.xyz/@tao/117208618508728654): “The currently fashionable practice of pointing a powerful AI tool at the task of answering a problem X, unguided by any human expert in the field X resides in, has created an unprecedented divergence between the production of answers, and the production of insight, to the point where the two questions have become negatively correlated.”
 
+Through displacing human intervention in science, and thereby weakening the human understanding required to produce genuinely novel techniques, frameworks, conceptual categories, and intergenerational knowledge, the AI frontier race could also undermine the scientific progress that the AI bosses claim to champion. 
+
 **War, surveillance and climate**
 
 The frontier AI companies are consuming enormous resources themselves. Their competing data centre networks require electricity, water and hardware, with expansion proceeding before they know whether all the capacity will be used.
